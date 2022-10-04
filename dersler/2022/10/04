@@ -1,0 +1,40 @@
+<html> 
+    <head>
+    <title>2. öğretim Ders</title>
+    <meta charset="utf-8" />
+    <meta name ="keyworsd" content="dpü,kütahya,dumlupınar"/>
+    <meta name="description" content=" ilk HTML sayfam."/>
+    </head>
+
+
+    <body>
+        Merhaba dünya <br> 
+        kış geliyor
+        <p> Kütahya Dumlupınar Üniversitesi </p>
+        <p>Kütahya Teknik Bilimler MYO </p>
+        <hr/>
+        <!--Bu kısımlara not yazabilirim -->
+        <h1>KÜtahya Dumlupınar Üniversitesi </h1>
+        <h2>KÜtahya Dumlupınar Üniversitesi </h2>
+        <h3>KÜtahya Dumlupınar Üniversitesi </h3>
+        <h4>KÜtahya Dumlupınar Üniversitesi </h4>
+        <h5>KÜtahya Dumlupınar Üniversitesi </h5>
+        <h6>KÜtahya Dumlupınar Üniversitesi </h6>
+        <ol>
+            <li>Balıkesirspor</li>
+            <li>Galatasaray</li>
+            <li>beşiktaş</li>
+            <li>trabzonspor</li>
+            <li>tavşanlı linyitspor</li>
+
+        </ol>
+        <ul>
+            <li>Balıkesirspor</li>
+            <li>Galatasaray</li>
+            <li>beşiktaş</li>
+            <li>trabzonspor</li>
+            <li>tavşanlı linyitspor</li>
+
+        </ul>
+    </body>
+</html>
